@@ -1,5 +1,3 @@
-@file:Suppress("UNUSED_EXPRESSION")
-
 package com.example.parrasdev.presentation.home
 
 import androidx.compose.foundation.Image
